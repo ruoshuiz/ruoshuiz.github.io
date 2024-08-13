@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>Android 洛雪音乐助手</title>
+      <link href="/2024/08/13/%5BAndroid%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/"/>
+      <url>/2024/08/13/%5BAndroid%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐是一个基于 React native 开发的音乐软件。</p><p><strong>支持的平台：</strong><br>Android 安卓</p><p>注：由于没有相关开发环境及证书，所以不计划支持IOS</p><p>电脑版下载：<a href="/2024/08/12/%5BWindows%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/">点此下载</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApfdvn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-mobile/releases">https://github.com/lyswhut/lx-music-mobile/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoui.com/b0w7qz81a">https://wwgi.lanzoui.com/b0w7qz81a</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载请把文件后缀改为apk格式</p><h2 id="音源下载"><a href="#音源下载" class="headerlink" title="音源下载"></a>音源下载</h2><p>因某种因素，软件自带音源已失效，但可以在设置中更换音源<br>以下为本站搜集的一些可用音源<br><a href="https://wwgi.lanzoui.com/b0w7qz8gf">https://wwgi.lanzoui.com/b0w7qz8gf</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载后请把文件后缀改为js格式</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>洛雪音乐助手</title>
       <link href="/2024/08/12/%5BWindows%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/"/>
       <url>/2024/08/12/%5BWindows%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐助手是一个基于 Electron + Vue 开发的聚合音乐软件。</p><p>所用技术栈：</p><p>Electron 10<br>Vue 2<br>已支持的平台</p><p>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApRgdU.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoue.com/b02f6nj6h">https://wwgi.lanzoue.com/b02f6nj6h</a> 密码:ruoshui</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐助手是一个基于 Electron + Vue 开发的聚合音乐软件。</p><p><strong>所用技术栈：</strong><br>Electron 10<br>Vue 2</p><p><strong>已支持的平台：</strong><br>Windows 7 及以上<br>Mac OS<br>Linux</p><p>手机版下载：<a href="/2024/08/13/%5BAndroid%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/">点此下载</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApRgdU.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoui.com/b02f6nj6h">https://wwgi.lanzoui.com/b02f6nj6h</a> 密码:ruoshui</p><h2 id="音源下载"><a href="#音源下载" class="headerlink" title="音源下载"></a>音源下载</h2><p>因某种因素，软件自带音源已失效，但可以在设置中更换音源<br>以下为本站搜集的一些可用音源<br><a href="https://wwgi.lanzoui.com/b0w7qz8gf">https://wwgi.lanzoui.com/b0w7qz8gf</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载后请把文件后缀改为js格式</p>]]></content>
       
       
       <categories>
