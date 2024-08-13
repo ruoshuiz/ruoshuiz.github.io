@@ -4,11 +4,61 @@
   
     
     <entry>
-      <title>Android 洛雪音乐助手</title>
-      <link href="/2024/08/13/%5BAndroid%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/"/>
-      <url>/2024/08/13/%5BAndroid%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/</url>
+      <title>Bilidown(B站视频下载工具)</title>
+      <link href="/2024/08/13/Windows-Bilidown/"/>
+      <url>/2024/08/13/Windows-Bilidown/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐是一个基于 React native 开发的音乐软件。</p><p><strong>支持的平台：</strong><br>Android 安卓</p><p>注：由于没有相关开发环境及证书，所以不计划支持IOS</p><p>电脑版下载：<a href="/2024/08/12/%5BWindows%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/">点此下载</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApfdvn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-mobile/releases">https://github.com/lyswhut/lx-music-mobile/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoui.com/b0w7qz81a">https://wwgi.lanzoui.com/b0w7qz81a</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载请把文件后缀改为apk格式</p><h2 id="音源下载"><a href="#音源下载" class="headerlink" title="音源下载"></a>音源下载</h2><p>因某种因素，软件自带音源已失效，但可以在设置中更换音源<br>以下为本站搜集的一些可用音源<br><a href="https://wwgi.lanzoui.com/b0w7qz8gf">https://wwgi.lanzoui.com/b0w7qz8gf</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载后请把文件后缀改为js格式</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>Bilidown是一款专为B站（哔哩哔哩）用户设计的视频下载工具，它提供了丰富且强大的功能，让用户能够轻松下载B站上的视频资源及其相关内容。</p><h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul><li>视频下载：支持下载B站上的单集、多集视频，最高可支持到1080P画质，对于大会员用户，还可以获取所有画质及音质。</li><li>相关资源下载：除了视频本身，Bilidown还支持下载封面、弹幕、字幕、音乐等相关资源，满足用户多样化的需求。</li><li>批量下载：支持任意粒度批量组合下载，用户可以一次性下载多个视频或相关资源，提高下载效率。</li></ul><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pA9SZaF.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://zhouql.vip/bilibili/pcversion/">https://zhouql.vip/bilibili/pcversion/</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网：<a href="https://zhouql.vip/bilibili/pc/">https://zhouql.vip/bilibili/pc/</a><br><a href="https://wwgi.lanzoue.com/b0w82ceaj">https://wwgi.lanzoue.com/b0w82ceaj</a> 密码:ruoshui<br><a href="https://www.123pan.com/s/8UHqVv-8KhTv.html">https://www.123pan.com/s/8UHqVv-8KhTv.html</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ryujinx(Switch模拟器)</title>
+      <link href="/2024/08/13/Windows-Ryujinx/"/>
+      <url>/2024/08/13/Windows-Ryujinx/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>Ryujinx是一款开源的Nintendo Switch模拟器，由gdkchan创建，使用C#编写。该模拟器旨在提供出色的准确性和性能，同时拥有用户友好的界面和稳定的构建。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ul><li>跨平台支持：Ryujinx支持Windows、macOS（Intel&#x2F;Apple）和Linux（x86&#x2F;arm64）等多种操作系统。</li><li>高性能与准确性：该模拟器致力于提供接近原机的游戏性能和准确性，让玩家能够在PC上享受Switch游戏的乐趣。</li><li>用户友好的界面：Ryujinx的界面设计简洁明了，易于上手，即使是没有模拟器使用经验的玩家也能快速掌握。</li><li>丰富的功能：包括音频输出、强大的ARM处理器模拟、高效的图形处理器支持等，同时还支持多种输入设备，如键盘、鼠标、触摸输入、JoyCon输入等。</li></ul><h2 id="中文设置"><a href="#中文设置" class="headerlink" title="中文设置"></a>中文设置</h2><p>打开软件，点击上方Options，进入页面，点击Change Language，找到简体中文，点击设置即可。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApze1I.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://wwgi.lanzoue.com/b0w82ca6b">https://wwgi.lanzoue.com/b0w82ca6b</a> 密码:ruoshui</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android 洛雪音乐助手</title>
+      <link href="/2024/08/13/Android-%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/"/>
+      <url>/2024/08/13/Android-%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐是一个基于 React native 开发的音乐软件。</p><p><strong>支持的平台：</strong><br>Android 安卓</p><p>注：由于没有相关开发环境及证书，所以不计划支持IOS</p><p>电脑版下载：<a href="/2024/08/12/Windows-%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/">点此下载</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApfdvn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-mobile/releases">https://github.com/lyswhut/lx-music-mobile/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoui.com/b0w7qz81a">https://wwgi.lanzoui.com/b0w7qz81a</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载请把文件后缀改为apk格式</p><h2 id="音源下载"><a href="#音源下载" class="headerlink" title="音源下载"></a>音源下载</h2><p>因某种因素，软件自带音源已失效，但可以在设置中更换音源<br>以下为本站搜集的一些可用音源<br><a href="https://wwgi.lanzoui.com/b0w7qz8gf">https://wwgi.lanzoui.com/b0w7qz8gf</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载后请把文件后缀改为js格式</p>]]></content>
       
       
       <categories>
@@ -30,10 +80,10 @@
     
     <entry>
       <title>洛雪音乐助手</title>
-      <link href="/2024/08/12/%5BWindows%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/"/>
-      <url>/2024/08/12/%5BWindows%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/</url>
+      <link href="/2024/08/12/Windows-%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/"/>
+      <url>/2024/08/12/Windows-%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐助手是一个基于 Electron + Vue 开发的聚合音乐软件。</p><p><strong>所用技术栈：</strong><br>Electron 10<br>Vue 2</p><p><strong>已支持的平台：</strong><br>Windows 7 及以上<br>Mac OS<br>Linux</p><p>手机版下载：<a href="/2024/08/13/%5BAndroid%5D%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/">点此下载</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApRgdU.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoui.com/b02f6nj6h">https://wwgi.lanzoui.com/b02f6nj6h</a> 密码:ruoshui</p><h2 id="音源下载"><a href="#音源下载" class="headerlink" title="音源下载"></a>音源下载</h2><p>因某种因素，软件自带音源已失效，但可以在设置中更换音源<br>以下为本站搜集的一些可用音源<br><a href="https://wwgi.lanzoui.com/b0w7qz8gf">https://wwgi.lanzoui.com/b0w7qz8gf</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载后请把文件后缀改为js格式</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>洛雪音乐助手是一个基于 Electron + Vue 开发的聚合音乐软件。</p><p><strong>所用技术栈：</strong><br>Electron 10<br>Vue 2</p><p><strong>已支持的平台：</strong><br>Windows 7 及以上<br>Mac OS<br>Linux</p><p>手机版下载：<a href="/2024/08/13/Android-%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B/">点此下载</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s21.ax1x.com/2024/08/13/pApRgdU.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md">https://github.com/lyswhut/lx-music-desktop/blob/master/CHANGELOG.md</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br><strong>[推荐]</strong><a href="https://wwgi.lanzoui.com/b02f6nj6h">https://wwgi.lanzoui.com/b02f6nj6h</a> 密码:ruoshui</p><h2 id="音源下载"><a href="#音源下载" class="headerlink" title="音源下载"></a>音源下载</h2><p>因某种因素，软件自带音源已失效，但可以在设置中更换音源<br>以下为本站搜集的一些可用音源<br><a href="https://wwgi.lanzoui.com/b0w7qz8gf">https://wwgi.lanzoui.com/b0w7qz8gf</a> 密码:ruoshui<br><strong>注：</strong>使用蓝奏云下载后请把文件后缀改为js格式</p>]]></content>
       
       
       <categories>
