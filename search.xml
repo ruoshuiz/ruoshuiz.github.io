@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>三月七小助手(崩铁自动化工具)</title>
+      <link href="/2024/09/01/Windows-March7thAssistant/"/>
+      <url>/2024/09/01/Windows-March7thAssistant/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>March7thAssistant · 三月七小助手是一款开源免费的崩铁自动化工具，它通过图像识别技术实现操作，帮助玩家解放双手，自动完成某些任务。</p><h2 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h2><ul><li><strong>日常</strong>：清体力、每日实训、领取奖励、委托、锄大地</li><li><strong>周常</strong>：历战余响、模拟宇宙、忘却之庭</li><li><strong>抽卡记录导出</strong>：支持 <a href="https://uigf.org/zh/standards/srgf.html">SRGF</a> 标准、自动对话</li><li>每日实训等任务的完成情况支持消息推送</li><li>任务刷新或体力恢复到指定值后自动启动</li><li>任务完成后声音提示、自动关闭游戏或关机等</li></ul><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://moesnow.github.io/March7thAssistant/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://raw.githubusercontent.com/moesnow/March7thAssistant/main/assets/screenshot/March7th.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">官方文档</div>            <div class="tag-link-sitename"> https://moesnow.github.io/March7thAssistant/</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://raw.githubusercontent.com/moesnow/March7thAssistant/main/assets/screenshot/README1.png"></p><h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><p>必须使用PC端 1920*1080 分辨率窗口或全屏运行游戏（不支持HDR）</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="flink"> <div class="flink-list"><div class="anzhiyu-flink-list">            <div class="flink-list-item">              <a href="https://github.com/moesnow/March7thAssistant/releases/latest" title="Github下载" class="cf-friends-link" target="_blank">                <div class="flink-item-icon">                  <img class="no-lightbox cf-friends-avatar" src="https://s2.loli.net/2024/08/14/8Fgk7C3jDLPAYsu.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Github下载" />                </div>                <div class="flink-item-info">                  <div class="flink-item-name">Github下载</div>                  <div class="flink-item-desc" title="官方下载链接">官方下载链接</div>                </div>              </a>            </div>            <div class="flink-list-item">              <a href="https://www.123pan.com/s/8UHqVv-o1HTv" title="123云盘下载" class="cf-friends-link" target="_blank">                <div class="flink-item-icon">                  <img class="no-lightbox cf-friends-avatar" src="https://s2.loli.net/2024/08/14/QKncUTGZ54Siezj.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="123云盘下载" />                </div>                <div class="flink-item-info">                  <div class="flink-item-name">123云盘下载</div>                  <div class="flink-item-desc" title="高速下载链接">高速下载链接</div>                </div>              </a>            </div></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BetterGI(原神自动化工具)</title>
       <link href="/2024/08/31/Windows-BetterGI/"/>
       <url>/2024/08/31/Windows-BetterGI/</url>
