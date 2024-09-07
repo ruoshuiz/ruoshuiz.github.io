@@ -1,3 +1,3 @@
-var posts=["2024/08/25/AandW-pvz合集/","2024/08/19/Android-BILIBILIAS/","2024/08/23/Android-LSPatch/","2024/08/19/Android-MT管理器/","2024/08/28/Android-元力音乐/","2024/09/01/Android-歌词适配/","2024/08/13/Android-洛雪音乐助手/","2024/08/24/Windows-2345看图王/","2024/08/14/Windows-Bandizip/","2024/08/31/Windows-BetterGI/","2024/08/13/Windows-Bilidown/","2024/08/14/Windows-Lanzou_Electron/","2024/09/01/Windows-March7thAssistant/","2024/08/13/Windows-Ryujinx/","2024/08/12/Windows-洛雪音乐助手/"];function toRandomPost(){
+var posts=["posts/3349d63c/","posts/586d04f6/","posts/1ff002b9/","posts/6cd45ac9/","posts/dba6fb02/","posts/3947d987/","posts/3f8b00fa/","posts/4e3c6833/","posts/5d2548b/","posts/1b7f1f1d/","posts/bae59f39/","posts/246872ec/","posts/dc74526/","posts/6041e474/","posts/c288664d/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
