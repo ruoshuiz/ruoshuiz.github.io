@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>WSAOnWin10</title>
+      <link href="/posts/W-WSAOnWin10/"/>
+      <url>/posts/W-WSAOnWin10/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>WSAOnWin10是一个开源项目，旨在使Windows 10用户能够安装和运行Windows Subsystem for Android（WSA），即Windows安卓子系统。</p><h2 id="项目概述"><a href="#项目概述" class="headerlink" title="项目概述"></a>项目概述</h2><p>WSAOnWin10项目基于MagiskOnWSA与WSAPatch，使用Github Actions自动构建WSA，并整合了Magisk和Google Apps，使其可以在Windows 10上运行。用户可以通过该项目在Windows 10上体验到安卓应用和系统功能。</p><h2 id="系统需求与硬件要求"><a href="#系统需求与硬件要求" class="headerlink" title="系统需求与硬件要求"></a>系统需求与硬件要求</h2><ol><li>系统需求：<ul><li>Windows 10版本：22H2 Build 10.0.19045.2311或更高版本（推荐）；20H2 Build 10.0.19042.2604（最低配置）；低于19042.2604的版本需安装KB5014032和KB5022834补丁。</li><li>Windows 11版本：21H2 Build 22000.526或更高版本。</li></ul></li><li>硬件要求：<ul><li>内存：8GB（最小值），16GB（推荐）。</li><li>CPU架构：x86_64或ARM64。</li><li>存储：固态硬盘（SSD，推荐），机械硬盘（HDD，不推荐）。最低存储要求为系统驱动器上至少有10GB可用空间。</li><li>分区：仅支持NTFS，WSA不能安装在exFAT分区上。</li></ul></li></ol><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol><li>安装完成后，WSA将启动。如果是第一次安装，会显示一个请求同意诊断信息的窗口，有时会显示两个相同的窗口，这是正常的，请在两个窗口中都单击“OK”。</li><li>不能删除安装文件夹，因为需要使用解压过后的文件来注册appx包，以便运行WSA。</li><li>对于WSAOnWin10和MagiskOnWSALocal用户，需要运行解压文件夹中的Run.bat。</li><li>在使用WSAOnWin10时，请确保已启用“虚拟机平台”功能。</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="flink"> <div class="flink-list"><div class="anzhiyu-flink-list">            <div class="flink-list-item">              <a href="https://github.com/Lyxot/WSAOnWin10/releases/latest" title="Github下载" class="cf-friends-link" target="_blank">                <div class="flink-item-icon">                  <img class="no-lightbox cf-friends-avatar" src="https://s2.loli.net/2024/08/14/8Fgk7C3jDLPAYsu.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Github下载" />                </div>                <div class="flink-item-info">                  <div class="flink-item-name">Github下载</div>                  <div class="flink-item-desc" title="官方下载链接">官方下载链接</div>                </div>              </a>            </div></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>[系统] Windows 10</title>
       <link href="/posts/S-Win10/"/>
       <url>/posts/S-Win10/</url>
