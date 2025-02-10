@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>AndroidTV BBLL(哔哩哔哩第三方客户端)</title>
+      <title>Android TV/Pad BBLL(哔哩哔哩第三方客户端)</title>
       <link href="/posts/ATV-BBLL/"/>
       <url>/posts/ATV-BBLL/</url>
       
@@ -13,7 +13,11 @@
       
       <categories>
           
+          <category> Android软件 </category>
+          
           <category> AndroidTV软件 </category>
+          
+          <category> AndroidPad软件 </category>
           
       </categories>
       
