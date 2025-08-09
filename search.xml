@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Android Shizuku</title>
+      <link href="/posts/61ef9f7f/"/>
+      <url>/posts/61ef9f7f/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进程直接以 adb 或 root 特权使用系统 API。</p><p>Shizuku 的诞生主要有两大目的：<br>提供一个方便地使用系统 API 的方式。<br>为部分只需要 adb 权限的应用开发提供便利。</p><p>Shizuku 是一个开源项目，你可以在 <a href="https://github.com/RikkaApps/Shizuku">https://github.com/RikkaApps/Shizuku</a> 找到源代码和更多详细信息。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s2.loli.net/2025/08/09/T39ZhXsLO4KuDc8.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址:<br><a href="https://shizuku.rikka.app/zh-hans">https://shizuku.rikka.app/zh-hans</a></p><p>项目地址:<br><a href="https://github.com/RikkaApps/Shizuku/releases">https://github.com/RikkaApps/Shizuku/releases</a></p><p>若水网分流:<br><a href="https://wwtl.lanzoum.com/b00b4wt7qb">https://wwtl.lanzoum.com/b00b4wt7qb</a><br>密码：ruoshui</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Android Operit AI</title>
       <link href="/posts/66e8bd7f/"/>
       <url>/posts/66e8bd7f/</url>
