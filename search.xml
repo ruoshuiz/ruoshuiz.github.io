@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Android Dhizuku</title>
+      <link href="/posts/c3963d3f/"/>
+      <url>/posts/c3963d3f/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个可以向其他应用分享设备所有者（DeviceOwner）权限的工具。</p><p>此应用可以委托设备所有者执行功能。<br>也就是说，此应用充当调用设备所有者功能的中介。</p><p>通常，此权限只能委托给一个应用，但 Dhizuku 允许您将设备所有者的全部权限委托给其他应用。</p><p>设置非常简单（例如：Shizuku、二维码）。<br>更多信息，请参阅教程。</p><p>例如，当您需要同时支持两个或多个设备所有者权限时，它是理想的选择。</p><p>具体来说，在日本，您需要在功能受限的设备上同时支持 Aurora Store 和 Test DPC。</p><p>即使应用开发者不支持 Dhizuku，您也可以使用 Dhizuku-API-Xposed 模块强制支持 Dhizuku。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s2.loli.net/2025/08/09/6DhlwrpEAQ24kvV.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>项目地址:<br><a href="https://github.com/iamr0s/Dhizuku/releases">https://github.com/iamr0s/Dhizuku/releases</a></p><p>若水网分流:<br><a href="https://wwtl.lanzoum.com/b00b4wtb7g">https://wwtl.lanzoum.com/b00b4wtb7g</a><br>密码：ruoshui</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Android Shizuku</title>
       <link href="/posts/61ef9f7f/"/>
       <url>/posts/61ef9f7f/</url>
