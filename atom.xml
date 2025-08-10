@@ -6,7 +6,7 @@
   <link href="https://633233.xyz/atom.xml" rel="self"/>
   
   <link href="https://633233.xyz/"/>
-  <updated>2025-08-09T16:34:19.000Z</updated>
+  <updated>2025-08-10T18:12:07.000Z</updated>
   <id>https://633233.xyz/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android PiliPlus</title>
+    <link href="https://633233.xyz/posts/16037506/"/>
+    <id>https://633233.xyz/posts/16037506/</id>
+    <published>2025-08-10T18:12:07.000Z</published>
+    <updated>2025-08-10T18:12:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>使用Flutter开发的BiliBili第三方客户端，目前着重移动端(Android、iOS)和Pad端，暂时没有适配桌面端、手表端等。</p><p>⚠️开发者声明内容<br>此项目（PiliPlus）是个人为了兴趣而开发, 仅用于学习和测试，请于下载后24小时内删除。 所用API皆从官方网站收集, 不提供任何破解内容。 在此致敬原作者：guozhigq&#x2F;pilipala 在此致敬上游作者：orz12&#x2F;PiliPalaX 本仓库做了更激进的修改，感谢原作者的开源精神。</p><p>🔆 开发者致谢<br>•bilibili-API-collect<br>•flutter_meedu_videoplayer<br>•media-kit<br>•dio<br>•等等</p><p>GitHub源码仓：<br><a href="https://github.com/bggRGjQaUbCoE/PiliPlus">https://github.com/bggRGjQaUbCoE/PiliPlus</a></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s2.loli.net/2025/08/10/VPjsz3dFptiQAwy.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>项目源码:<br><a href="https://github.com/bggRGjQaUbCoE/PiliPlus/releases">https://github.com/bggRGjQaUbCoE/PiliPlus/releases</a></p><p><a href="https://wwgi.lanzoue.com/b0w92ro5a">https://wwgi.lanzoue.com/b0w92ro5a</a><br>密码:ruoshui</p><p>apk文件为安卓版本，安卓版本安装包有三个，选择兼容自己设备的安装包，不会选择自行搜索。<br>ipa文件为苹果版本，需自签使用。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;软件简介&quot;&gt;&lt;a href=&quot;#软件简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Android软件" scheme="https://633233.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="应用软件" scheme="https://633233.xyz/tags/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Android Dhizuku</title>
@@ -530,33 +557,6 @@
         
         
     <summary type="html">&lt;h2 id=&quot;Windows-10-官方版&quot;&gt;&lt;a href=&quot;#Windows-10-官方版&quot; class=&quot;headerlink&quot; title=&quot;Windows 10 官方版&quot;&gt;&lt;/a&gt;Windows 10 官方版&lt;/h2&gt;&lt;div class=&quot;tabs&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Windows系统" scheme="https://633233.xyz/categories/Windows%E7%B3%BB%E7%BB%9F/"/>
-    
-    
-    <category term="系统资源" scheme="https://633233.xyz/tags/%E7%B3%BB%E7%BB%9F%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[系统] Windows 7</title>
-    <link href="https://633233.xyz/posts/S-Win7/"/>
-    <id>https://633233.xyz/posts/S-Win7/</id>
-    <published>2024-12-08T06:03:27.544Z</published>
-    <updated>2024-12-08T06:03:28.576Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Windows-7-官方版"><a href="#Windows-7-官方版" class="headerlink" title="Windows 7 官方版"></a>Windows 7 官方版</h2><div class="tabs" id="windows-7-ultimate-with-service-pack-1-(x64)"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="windows-7-ultimate-with-service-pack-1-(x64)-1">Windows 7 Ultimate with Service Pack 1 (x64)</button><button type="button" class="tab " data-href="windows-7-ultimate-with-service-pack-1-(x64)-2">Windows 7 Ultimate with Service Pack 1 (x86)</button></ul><div class="tab-contents"><div class="tab-item-content active" id="windows-7-ultimate-with-service-pack-1-(x64)-1"><p><mark class="hl-label blue">文件名</mark>  cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso<br><mark class="hl-label blue">SHA1</mark>  2CE0B2DB34D76ED3F697CE148CB7594432405E23<br><mark class="hl-label blue">文件大小</mark>  3.19GB<br><mark class="hl-label blue">发布时间</mark>  2011-05-12</p><div class="note info modern"><p>此链接为ED2K可视为P2P下载链接，复制ed2k链接，打开eMule或迅雷，新建下载，粘贴链接，开始下载。</p></div><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/</span><br></pre></td></tr></table></figure></div><div class="tab-item-content" id="windows-7-ultimate-with-service-pack-1-(x64)-2"><p><mark class="hl-label blue">文件名</mark>  cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso<br><mark class="hl-label blue">SHA1</mark>  B92119F5B732ECE1C0850EDA30134536E18CCCE7<br><mark class="hl-label blue">文件大小</mark>  2.47GB<br><mark class="hl-label blue">发布时间</mark>  2011-05-12</p><div class="note info modern"><p>此链接为ED2K可视为P2P下载链接，复制ed2k链接，打开eMule或迅雷，新建下载，粘贴链接，开始下载。</p></div><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/</span><br></pre></td></tr></table></figure></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Windows-7-官方版&quot;&gt;&lt;a href=&quot;#Windows-7-官方版&quot; class=&quot;headerlink&quot; title=&quot;Windows 7 官方版&quot;&gt;&lt;/a&gt;Windows 7 官方版&lt;/h2&gt;&lt;div class=&quot;tabs&quot;</summary>
         
       
     
